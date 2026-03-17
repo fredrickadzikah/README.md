@@ -6,7 +6,7 @@ Hi 👋 My name is Fredrick Adzikah
  ![](https://image.ibb.co/jEkcdd/front_end_developers_openings_1.gif)
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%230AF7A6&center=true&vCenter=true&lines=Passionate+Developer;Competitive+Programmer;Fast+Learner"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%230AF7A6&center=true&vCenter=true&lines= Graphic Designer; Passionate+Developer;Competitive+Programmer;Fast+Learner"></a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=kofiofori-panin&style=flat-square&label=PROFILE+VIEWS&color=lightgrey)
