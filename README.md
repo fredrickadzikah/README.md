@@ -1,7 +1,7 @@
-Hi 👋 My name is Kofi Ofori-Panin
+Hi 👋 My name is Fredrick Adzikah
 ==============================
 
-👨🏾‍💻 Front-end Developer (Open to Opportunities)
+👨🏾‍💻 Graphic Designer / Front-end Developer (Open to Opportunities)
 --------------------------------------------------------------------
  ![](https://image.ibb.co/jEkcdd/front_end_developers_openings_1.gif)
 
@@ -11,18 +11,19 @@ Hi 👋 My name is Kofi Ofori-Panin
 
 ![](https://komarev.com/ghpvc/?username=kofiofori-panin&style=flat-square&label=PROFILE+VIEWS&color=lightgrey)
 
+Hi, I'm Whyyfrey by brand, a visual storyteller dedicated to transforming ideas into engaging digital experiences. With a passion for minimalism and a background in illustration, I help brands create memorable visual identities. When I’m not pushing pixels, you can find me finding inspiration at local coffee shops or exploring the city with my camera.
 A passionate developer deploying end-to-end web solutions that help businesses scale while saving time and cost over the past 1 year. 
 
 First and foremost, I love writing code. Ever since writing my first program in JavaScript and manipulating it to produce the desired output, I have been obsessed with the idea of using software to solve practical problems. Software engineering is a never-ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world.
 
-😍 When I am away from my computer, you'd find me reading personal development books or sleeping. 😴
+😍 When I am away from my computer, you'd find me reading personal development books or gaming 🎮
 
 💻🗣 Key Languages: | HTML | CSS | JavaScript | React |
 
-🛠 Tools: | ReactJS | Redux | Github |
+🛠 Tools: | ReactJS | Redux | Github | Photoshop |
 
-- [ ] 🌍  I'm based in Accra - Ghana
-- [ ] ✉️  You can contact me at [oforipaninkofi@gmail.com](mailto:oforipaninkofi@gmail.com)
+- [ ] 🌍  I'm based in Tarkwa - Ghana
+- [ ] ✉️  You can contact me at [Diskydonn@gmail.com](mailto:diskydonn@gmail.com)
 
 ### Skills
 
@@ -46,19 +47,6 @@ First and foremost, I love writing code. Ever since writing my first program in 
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>  
 </p>
-
-## 📊 Github Stats
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="left">
-    <a href="https://github.com/kofiofori-panin/github-readme-stats"><img alt="Kofi Ofori-Panin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kofiofori-panin&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-  
-  &nbsp;
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kofiofori-panin&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="kofiofori-panin" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
 
 ----
 
@@ -88,4 +76,3 @@ First and foremost, I love writing code. Ever since writing my first program in 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kofiofori-panin&layout=compact&theme=algolia" alt="kofiofori-panin" /></a> </p>
 
 -----
-Credits: [kofiofori-panin](https://github.com/kofiofori-panin)
